@@ -1,0 +1,22 @@
+{
+  "name": "projeto",
+  "version": "0.0.1",
+  "description": "arduino & node integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/021dev/node-arduino.git"
+  },
+  "author": "Rafael Sampaio",
+  "license": "ISC",
+  "dependencies": {
+    "@types/johnny-five": "^1.3.0",
+    "electron": "^10.1.5",
+    "electron-reload": "^1.5.0",
+    "johnny-five": "^2.0.0",
+    "typescript": "^4.0.5"
+  }
+}
